@@ -1,0 +1,78 @@
+{
+  "short_name": "Traveling Kincaimedia.net",
+  "name": "Traveling Kincaimedia.net",
+  "description": "Informasi Lokasi Wisata dan Traveling. Dapatkan berbagai Tips dan Review berbagai Destinasi Tempat Wisata Populer di Indonesia dan Luar Negeri",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-8wxv0xxutCI/YHnTunjPRuI/AAAAAAAAA6o/cN_hiAnD0902NR-_1DLIwYGPOBMZXYgTwCLcBGAsYHQ/s32/kincaimedia32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-GbeRvMPlNuo/YHnTu5GxIQI/AAAAAAAAA6s/DmDmo-WIABEi1YsZs1YvqXitxsD_wwreACLcBGAsYHQ/s48/kincaimedia48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-7yUPXjzoq_U/YHnTviuML6I/AAAAAAAAA64/Y5SQeQLgi6EhB1Z6MxjILqCibIxQwE41gCLcBGAsYHQ/s72/kincaimedia72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-cxhf40gDZfw/YHnTwSh0vOI/AAAAAAAAA68/oa8N346ypMkGBF-7PzaKRxM4peES8yTKQCLcBGAsYHQ/s96/kincaimedia96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-HMnez7L2RGo/YHnTtQPYvZI/AAAAAAAAA6U/CYBMKf4VpT8IK8IRR0yyhs4jSEaZov2NgCLcBGAsYHQ/s144/kincaimedia144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Rk4B8evKd4A/YHnTtWIbb-I/AAAAAAAAA6Y/MY4YdfDbSwoZxG05jHNOwg1hqW616ZxYwCLcBGAsYHQ/s168/kincaimedia168.png",
+      "sizes": "168x168",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-7owFHyp8rNc/YHnTte4cU1I/AAAAAAAAA6c/wI_uWmjLKVYhHuWutMNlpgSptlEeT2uHgCLcBGAsYHQ/s180/kincaimedia180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-fNgKXS4ti4c/YHnTuJDXQZI/AAAAAAAAA6g/79RqCPUFh04u2cphme1fSYl0bvwRERjWgCLcBGAsYHQ/s192/kincaimedia192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-9hQoBHhQAiY/YHnTukdstnI/AAAAAAAAA6k/p5AjvAtUD9UkQBMgV_810snkcXWmxT2WgCLcBGAsYHQ/s256/kincaimedia256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/--iVURUT-shI/YHnTvtiY-KI/AAAAAAAAA6w/m-OZCfTHjaYpQZvsJlFKfzR5QLWC28QkACLcBGAsYHQ/s512/kincaimedia512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-vGbqS4kKmb4/YHnTvvfRAEI/AAAAAAAAA60/-1XNLC2cI3ka8a_1fxq4obOAPjnYQX2xwCLcBGAsYHQ/s690/kincaimedia690.png",
+      "sizes": "690x690",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "/",
+  "start_url": "https://traveling.kincaimedia.net/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "theme_color": "#0D8BF2"
+}
